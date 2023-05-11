@@ -1,0 +1,10 @@
+PyCitySchools Analysis:
+-------------------------------------------------------------------------------------------------------
+Small and medium size schools consistently outperformed large schools in relation to math scores. On average, the small and medium size schools also had a higher percentage of students with a passing grade. No material difference on reading scores, however results are still better for the small and medium schools.  Therefore, one can conclude that a bigger budget and spending more per student will not yield better results or performance.
+-------------------------------------------------------------------------------------------------------
+Charter school types outperformed District school types in math scores, reading scores, and percentage of students passing.  Enrolling in a 'charter' school appears enhanced the odds of success.
+-------------------------------------------------------------------------------------------------------
+For all schools, grade results for each school in math and reading are consistent with no material difference between grades 9, 10, 11, and 12.
+-------------------------------------------------------------------------------------------------------
+
+
